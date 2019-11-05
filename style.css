@@ -1,0 +1,84 @@
+.navbar-brand {
+    background-color: rgba(0, 128, 128, 0.582);
+    font-weight: bold;
+    padding: 20px;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+header {
+    background-color: white;
+    color: white;
+}
+
+body {
+    background-color: lightgray !important;
+    margin: 0;
+}
+
+#break {
+    background-color: lightgray !important;
+}
+
+#divider {
+    background-color: lightgray;
+
+}
+
+
+.container {
+    margin-top: 70px;
+    /* margin: 0 auto; */
+    padding: 0;
+    background-color: white;
+}
+
+h1 {
+    color: rgba(0, 128, 128, 0.815);
+    background-color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: rgba(0, 128, 128, 0.815);
+    background-color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    text-align: center;
+    color: rgba(0, 128, 128, 0.815);
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+
+#lat-image {
+   float: left;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.514);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 90px;
+}
